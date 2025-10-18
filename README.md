@@ -32,7 +32,7 @@
 
 ---
 
-### 🤖 [Emotion Recognition](https://github.com/NAizdabezt/emotion-recognition)
+### 🤖 [Emotion Recognition](https://github.com/NAizdabezt/doanpython)
 - Dự án nhận diện cảm xúc khuôn mặt bằng học sâu (Deep Learning)  
 - Áp dụng **CNN (Convolutional Neural Network)** để phân loại biểu cảm  
 - Công nghệ: **Python**, **OpenCV**, **TensorFlow**
