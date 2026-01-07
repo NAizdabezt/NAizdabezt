@@ -26,8 +26,7 @@
 
 ## 📂 Dự án tiêu biểu (Featured Projects)
 
-### 📈 [COVID-19 Time-Series Forecasting](https://github.com/tunhatanh/covid19-forecast)
-*(Dự án quan trọng nhất cho vị trí Quant - Bạn nhớ đổi link cho đúng repo)*
+### 📈 [COVID-19 Time-Series Forecasting](https://github.com/NAizdabezt/who-covid19-dashboard)
 - **Mô tả:** Phân tích và dự báo xu hướng lây nhiễm COVID-19 dựa trên dữ liệu chuỗi thời gian (Time-series) từ WHO.
 - **Kỹ thuật:** Xử lý dữ liệu thiếu, Resampling, và trực quan hóa dữ liệu (EDA).
 - **Công nghệ:** Python, Pandas, Matplotlib, Clustering models.
@@ -37,7 +36,7 @@
 - **Kỹ thuật:** Tính toán biến động (Volatility), lợi nhuận (Return) và vẽ biểu đồ biến động giá.
 - **Công nghệ:** Python, Pandas, Matplotlib.
 
-### 🍽️ [Watch Store Management System](https://github.com/NAizdabezt/pos-system)
+### 🍽️ [Watch Store Management System](https://github.com/langvuong09/QuanLyBanDongHo)
 - **Mô tả:** Hệ thống quản lý kho và bán hàng toàn diện.
 - **Điểm nhấn:** Thiết kế cơ sở dữ liệu chuẩn hóa và tối ưu hóa truy vấn SQL.
 - **Công nghệ:** C# (ASP.NET), SQL Server.
@@ -73,7 +72,7 @@
 
 ### 📂 Featured Projects
 
-- 📈 **[COVID-19 Time-Series Forecasting](https://github.com/tunhatanh/covid19-forecast)** (Key Project)
+- 📈 **[COVID-19 Time-Series Forecasting](https://github.com/NAizdabezt/who-covid19-dashboard)** (Key Project)
   - Analyzed and forecasted infection trends using WHO time-series data.
   - Performed rigorous data cleaning and EDA with **Pandas** and **Matplotlib**.
 
@@ -81,7 +80,7 @@
   - Simulated basic financial risk metrics and visualized stock price volatility.
   - Applied quantitative concepts using Python.
 
-- 🍽️ **[Watch Store Management System](https://github.com/NAizdabezt/pos-system)**
+- 🍽️ **[Watch Store Management System](https://github.com/langvuong09/QuanLyBanDongHo)**
   - Full-stack management system with a robust database architecture.
   - Demonstrated strong **SQL** skills in data handling and reporting.
 
