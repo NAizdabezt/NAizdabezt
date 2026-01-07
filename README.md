@@ -1,48 +1,46 @@
-# 👋 Xin chào, mình là **Từ Nhật Anh**  
+# 👋 Xin chào, mình là **Từ Nhật Anh**
 
-🎓 Sinh viên năm 4 ngành **Công nghệ thông tin** – chuyên ngành **Hệ thống thông tin** tại **Trường Đại học Sài Gòn**.  
-💼 Định hướng nghề nghiệp: **Business Analyst (Chuyên viên phân tích nghiệp vụ)** – kết nối giữa **doanh nghiệp** và **công nghệ** để tạo ra các giải pháp hiệu quả.  
+🎓 Sinh viên năm 4 ngành **Hệ thống thông tin** tại **Trường Đại học Sài Gòn**.
+💼 Định hướng nghề nghiệp: **Quantitative Trading Intern / Data Analyst** – Ứng dụng tư duy lập trình và phân tích dữ liệu để giải quyết các bài toán tài chính.
 
 ---
 
-## 💡 Giới thiệu bản thân
-- 🌱 Hiện đang học và thực hành: **SQL Server**, **Java**, **Python**, **Phân tích dữ liệu**  
-- 🧩 Mối quan tâm: **AI ứng dụng**, **hệ thống POS**, **quản lý quy trình nghiệp vụ**  
-- 💬 Có thể trao đổi về: **thiết kế CSDL**, **phân tích hệ thống**, hoặc **giao diện người dùng (GUI)**  
+## 💡 Giới thiệu bản thân (About Me)
+- 🌱 Hiện đang tập trung nghiên cứu: **Financial Time-series Analysis**, **Quantitative Strategies**, và **Data Engineering**.
+- 💻 Ngôn ngữ chính: **Python (Pandas, NumPy)** & **SQL**.
+- 📊 Mối quan tâm: Xây dựng mô hình dự báo (Forecasting Models), Backtesting chiến lược giao dịch, và Quản lý rủi ro.
 - 📫 Liên hệ: [Email](mailto:atn71204@gmail.com) | [LinkedIn](https://linkedin.com/in/nhat-anh-016133330)
 
 ---
 
-## 🛠️ Công nghệ sử dụng (Tech Stack)
-| Danh mục | Công cụ / Ngôn ngữ |
+## 🛠️ Bộ kỹ năng (Tech Stack)
+
+| Lĩnh vực | Công nghệ / Thư viện |
 |-----------|--------------------|
-| Ngôn ngữ lập trình | Java, Python, C++, SQL |
-| Cơ sở dữ liệu | SQL Server, MySQL |
-| Công cụ phát triển | VS Code, SSMS, Figma, Power BI |
-| Quản lý phiên bản | Git, GitHub |
+| **Data Analysis & Quant** | **Python**, **Pandas**, **NumPy**, Matplotlib, Seaborn, Scikit-learn |
+| **Database** | **SQL Server**, MySQL (Viết query phức tạp, Stored Procedures) |
+| **Software Development** | C#, ASP.NET, Java, Git/GitHub |
+| **Tools** | Jupyter Notebook, VS Code, SSMS |
 
 ---
 
 ## 📂 Dự án tiêu biểu (Featured Projects)
 
-### 🍽️ [POS Web System](https://github.com/NAizdabezt/pos-system)
-- Hệ thống quản lý bán hàng cho nhà hàng/quán cà phê  
-- Tính năng: đặt bàn, gọi món trực tuyến, thanh toán, và báo cáo doanh thu  
-- Công nghệ: **Java**, **SQL Server**, **HTML/CSS/JS**
-
----
-
-### 🤖 [Emotion Recognition](https://github.com/NAizdabezt/doanpython)
-- Dự án nhận diện cảm xúc khuôn mặt bằng học sâu (Deep Learning)  
-- Áp dụng **CNN (Convolutional Neural Network)** để phân loại biểu cảm  
-- Công nghệ: **Python**, **OpenCV**, **TensorFlow**
-
----
+### 📈 [COVID-19 Time-Series Forecasting](https://github.com/tunhatanh/covid19-forecast)
+*(Dự án quan trọng nhất cho vị trí Quant - Bạn nhớ đổi link cho đúng repo)*
+- **Mô tả:** Phân tích và dự báo xu hướng lây nhiễm COVID-19 dựa trên dữ liệu chuỗi thời gian (Time-series) từ WHO.
+- **Kỹ thuật:** Xử lý dữ liệu thiếu, Resampling, và trực quan hóa dữ liệu (EDA).
+- **Công nghệ:** Python, Pandas, Matplotlib, Clustering models.
 
 ### 💹 [Financial Risk Management Demo](https://github.com/NAizdabezt/financial-risk-demo)
-- Mô phỏng các mô hình **quản lý rủi ro tài chính (FRM)**  
-- Phân tích dữ liệu, mô phỏng biến động giá và rủi ro danh mục đầu tư  
-- Công nghệ: **Python**, **Pandas**, **Matplotlib**
+- **Mô tả:** Mô phỏng các chỉ số quản lý rủi ro tài chính cơ bản.
+- **Kỹ thuật:** Tính toán biến động (Volatility), lợi nhuận (Return) và vẽ biểu đồ biến động giá.
+- **Công nghệ:** Python, Pandas, Matplotlib.
+
+### 🍽️ [Watch Store Management System](https://github.com/NAizdabezt/pos-system)
+- **Mô tả:** Hệ thống quản lý kho và bán hàng toàn diện.
+- **Điểm nhấn:** Thiết kế cơ sở dữ liệu chuẩn hóa và tối ưu hóa truy vấn SQL.
+- **Công nghệ:** C# (ASP.NET), SQL Server.
 
 ---
 
@@ -50,51 +48,43 @@
 
 ### 👋 Hi, I'm **Tu Nhat Anh**
 
-🎓 3rd-year IT student majoring in **Information Systems** at **Saigon University**.  
-💼 Aspiring **Business Analyst**, passionate about connecting business and technology through data-driven insights.  
+🎓 Senior **Information Systems** student at **Saigon University**.
+💼 Aspiring **Quantitative Trading Intern**. I am passionate about leveraging **Python** and **Data Science** to uncover insights in financial markets.
 
 ---
 
 ### 💡 About Me
-- 🌱 Currently learning: **SQL Server**, **Java**, and **Data Analysis**  
-- 🧩 Interested in: **AI applications**, **POS systems**, and **process modeling**  
-- 💬 Ask me about: **Database design**, **system analysis**, or **UI development**  
+- 🌱 Currently focusing on: **Time-series Analysis**, **Quantitative Finance**, and **Backtesting workflows**.
+- 💻 Core Stack: **Python (Pandas, NumPy)** & **SQL**.
+- 📊 Interests: Algorithmic Trading concepts, Data Visualization, and System Architecture.
 - 📫 Contact: [Email](mailto:atn71204@gmail.com) | [LinkedIn](https://linkedin.com/in/nhat-anh-016133330)
 
 ---
 
 ### 🛠️ Tech Stack
-| Category | Tools |
+| Category | Tools & Libraries |
 |-----------|-------|
-| Programming Languages | Java, Python, C++, SQL |
-| Database | SQL Server, MySQL |
-| Tools | VS Code, SSMS, Figma, Power BI |
-| Version Control | Git, GitHub |
+| **Data Analysis & Quant** | **Python**, **Pandas**, **NumPy**, Matplotlib, Seaborn, Scikit-learn |
+| **Database** | **SQL Server**, MySQL (Complex Queries, Optimization) |
+| **Development** | C#, ASP.NET, Java, Git/GitHub |
+| **Tools** | Jupyter Notebook, VS Code, SSMS |
 
 ---
 
 ### 📂 Featured Projects
-- 🍽️ [POS Web System](https://github.com/NAizdabezt/pos-system) – POS system for restaurants and cafés  
-- 🤖 [Emotion Recognition](https://github.com/NAizdabezt/emotion-recognition) – Facial expression recognition using CNN  
-- 💹 [Financial Risk Management Demo](https://github.com/NAizdabezt/financial-risk-demo) – Risk management simulation in Python  
+
+- 📈 **[COVID-19 Time-Series Forecasting](https://github.com/tunhatanh/covid19-forecast)** (Key Project)
+  - Analyzed and forecasted infection trends using WHO time-series data.
+  - Performed rigorous data cleaning and EDA with **Pandas** and **Matplotlib**.
+
+- 💹 **[Financial Risk Management Demo](https://github.com/NAizdabezt/financial-risk-demo)**
+  - Simulated basic financial risk metrics and visualized stock price volatility.
+  - Applied quantitative concepts using Python.
+
+- 🍽️ **[Watch Store Management System](https://github.com/NAizdabezt/pos-system)**
+  - Full-stack management system with a robust database architecture.
+  - Demonstrated strong **SQL** skills in data handling and reporting.
 
 ---
 
-⭐ *Cảm ơn bạn đã ghé thăm GitHub của mình! Hy vọng bạn sẽ thích các dự án mình đang thực hiện.*  
-⭐ *Thanks for visiting my GitHub! Feel free to explore my projects.*
-
-
-<!--
-**NAizdabezt/NAizdabezt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *Thanks for visiting my GitHub! Ready to code and analyze.*
