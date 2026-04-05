@@ -1,89 +1,107 @@
-# 👋 Xin chào, mình là **Từ Nhật Anh**
+# 👋 Xin chào, mình là Từ Nhật Anh
 
-🎓 Sinh viên năm 4 ngành **Hệ thống thông tin** tại **Trường Đại học Sài Gòn**.
-💼 Định hướng nghề nghiệp: **Quantitative Trading Intern / Data Analyst** – Ứng dụng tư duy lập trình và phân tích dữ liệu để giải quyết các bài toán tài chính.
+🎓 Sinh viên năm cuối ngành **Hệ thống thông tin** tại **Đại học Sài Gòn**.  
+💼 Định hướng nghề nghiệp: **Thực tập sinh Kỹ sư dữ liệu (Data Engineer Intern)** với niềm đam mê thiết kế các luồng dữ liệu (ETL pipeline) mạnh mẽ, tự động hóa quy trình và tối ưu hóa kiến trúc cơ sở dữ liệu.
 
 ---
 
-## 💡 Giới thiệu bản thân (About Me)
-- 🌱 Hiện đang tập trung nghiên cứu: **Financial Time-series Analysis**, **Quantitative Strategies**, và **Data Engineering**.
-- 💻 Ngôn ngữ chính: **Python (Pandas, NumPy)** & **SQL**.
-- 📊 Mối quan tâm: Xây dựng mô hình dự báo (Forecasting Models), Backtesting chiến lược giao dịch, và Quản lý rủi ro.
+### 💡 Vài nét về mình
+- 🌱 Hiện đang tập trung nghiên cứu: **Kỹ thuật Dữ liệu (ETL/ELT)**, **Điều phối quy trình (Workflow Orchestration)** (GitHub Actions, cơ bản về Airflow), và **Phát triển API**.
+- 💻 Ngôn ngữ cốt lõi: **Python** & **SQL**.
+- 📊 Mối quan tâm: Xây dựng Pipeline tự động, Tối ưu hóa Database, và Ra quyết định dựa trên dữ liệu (Data-driven Decision Making).
 - 📫 Liên hệ: [Email](mailto:atn71204@gmail.com) | [LinkedIn](https://linkedin.com/in/nhat-anh-016133330)
 
 ---
 
-## 🛠️ Bộ kỹ năng (Tech Stack)
+### 🛠️ Bộ kỹ năng & Công cụ
 
-| Lĩnh vực | Công nghệ / Thư viện |
-|-----------|--------------------|
-| **Data Analysis & Quant** | **Python**, **Pandas**, **NumPy**, Matplotlib, Seaborn, Scikit-learn |
-| **Database** | **SQL Server**, MySQL (Viết query phức tạp, Stored Procedures) |
-| **Software Development** | C#, ASP.NET, Java, Git/GitHub |
-| **Tools** | Jupyter Notebook, VS Code, SSMS |
+**Hệ sinh thái Dữ liệu & Backend:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
----
-
-## 📂 Dự án tiêu biểu (Featured Projects)
-
-### 📈 [COVID-19 Time-Series Forecasting](https://github.com/NAizdabezt/who-covid19-dashboard)
-- **Mô tả:** Phân tích và dự báo xu hướng lây nhiễm COVID-19 dựa trên dữ liệu chuỗi thời gian (Time-series) từ WHO.
-- **Kỹ thuật:** Xử lý dữ liệu thiếu, Resampling, và trực quan hóa dữ liệu (EDA).
-- **Công nghệ:** Python, Pandas, Matplotlib, Clustering models.
-
-### 💹 [Financial Risk Management Demo](https://github.com/NAizdabezt/financial-risk-demo)
-- **Mô tả:** Mô phỏng các chỉ số quản lý rủi ro tài chính cơ bản.
-- **Kỹ thuật:** Tính toán biến động (Volatility), lợi nhuận (Return) và vẽ biểu đồ biến động giá.
-- **Công nghệ:** Python, Pandas, Matplotlib.
-
-### 🍽️ [Watch Store Management System](https://github.com/langvuong09/QuanLyBanDongHo)
-- **Mô tả:** Hệ thống quản lý kho và bán hàng toàn diện.
-- **Điểm nhấn:** Thiết kế cơ sở dữ liệu chuẩn hóa và tối ưu hóa truy vấn SQL.
-- **Công nghệ:** C# (ASP.NET), SQL Server.
+**Cơ sở dữ liệu & Hạ tầng:** ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
-## 🌐 English Version
+### 📂 Dự án tiêu biểu
 
-### 👋 Hi, I'm **Tu Nhat Anh**
+#### 🛒 [Hệ thống BI & Pipeline Dữ liệu Thương mại điện tử Olist](https://github.com/NAizdabezt/BI-Dashboard-Project) *(🌟 Dự án tâm huyết)*
+- **Vai trò:** Kỹ sư dữ liệu / Lập trình viên Backend
+- **Tổng quan:** Xây dựng hệ thống tự động mô phỏng các luồng dữ liệu thương mại điện tử trong thực tế.
+- **Điểm nổi bật:**
+  - Xây dựng **ETL Pipeline** tự động để trích xuất, làm sạch và xử lý dữ liệu từ nhiều nguồn (Đơn hàng, Khách hàng, Thanh toán).
+  - Thiết kế cơ chế mô phỏng "Du hành thời gian" sử dụng **GitHub Actions (Cron Jobs)** để tải dữ liệu tăng dần (incremental loading) hàng ngày.
+  - Phát triển RESTful APIs hiệu năng cao bằng **FastAPI** để cung cấp dữ liệu đã xử lý cho Next.js BI Dashboard một cách mượt mà.
 
-🎓 Senior **Information Systems** student at **Saigon University**.
-💼 Aspiring **Quantitative Trading Intern**. I am passionate about leveraging **Python** and **Data Science** to uncover insights in financial markets.
+#### 📈 [Phân tích dữ liệu chuỗi thời gian COVID-19](https://github.com/NAizdabezt/who-covid19-dashboard)
+- **Vai trò:** Chuyên viên Phân tích Dữ liệu
+- **Tổng quan:** Xử lý và phân tích bộ dữ liệu chuỗi thời gian của WHO để dự báo xu hướng lây nhiễm.
+- **Điểm nổi bật:** Thực hiện làm sạch dữ liệu chuyên sâu, xử lý giá trị thiếu và phân tích khám phá (EDA) bằng **Pandas** và **Matplotlib**.
+
+#### 🍽️ [Hệ thống quản lý Cửa hàng Đồng hồ](https://github.com/langvuong09/QuanLyBanDongHo)
+- **Vai trò:** Quản trị Cơ sở dữ liệu
+- **Tổng quan:** Hệ thống quản lý bán lẻ toàn diện với kiến trúc backend vững chắc.
+- **Điểm nổi bật:** Thể hiện kỹ năng **SQL** mạnh mẽ trong việc chuẩn hóa cơ sở dữ liệu, viết các truy vấn phức tạp và quản lý giao dịch (transaction).
+
+---
+
+⭐ *Cảm ơn bạn đã ghé thăm GitHub của mình! Luôn sẵn sàng để code, tối ưu hóa và tự động hóa.*
+
+# 👋 Hi, I'm Tu Nhat Anh
+
+🎓 Senior **Information Systems** student at **Saigon University**.  
+💼 Aspiring **Data Engineer Intern** passionate about designing robust ETL pipelines, automating data workflows, and optimizing database architecture.
 
 ---
 
 ### 💡 About Me
-- 🌱 Currently focusing on: **Time-series Analysis**, **Quantitative Finance**, and **Backtesting workflows**.
-- 💻 Core Stack: **Python (Pandas, NumPy)** & **SQL**.
-- 📊 Interests: Algorithmic Trading concepts, Data Visualization, and System Architecture.
+- 🌱 Currently focusing on: **Data Engineering (ETL/ELT)**, **Workflow Orchestration** (GitHub Actions, Airflow basics), and **API Development**.
+- 💻 Core Languages: **Python** & **SQL**.
+- 📊 Interests: Building Automated Pipelines, Database Optimization, and Data-driven Decision Making.
 - 📫 Contact: [Email](mailto:atn71204@gmail.com) | [LinkedIn](https://linkedin.com/in/nhat-anh-016133330)
 
 ---
 
-### 🛠️ Tech Stack
-| Category | Tools & Libraries |
-|-----------|-------|
-| **Data Analysis & Quant** | **Python**, **Pandas**, **NumPy**, Matplotlib, Seaborn, Scikit-learn |
-| **Database** | **SQL Server**, MySQL (Complex Queries, Optimization) |
-| **Development** | C#, ASP.NET, Java, Git/GitHub |
-| **Tools** | Jupyter Notebook, VS Code, SSMS |
+### 🛠️ Tech Stack & Tools
+
+**Data & Backend Ecosystem:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**Databases & Infrastructure:** ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
 ### 📂 Featured Projects
 
-- 📈 **[COVID-19 Time-Series Forecasting](https://github.com/NAizdabezt/who-covid19-dashboard)** (Key Project)
-  - Analyzed and forecasted infection trends using WHO time-series data.
-  - Performed rigorous data cleaning and EDA with **Pandas** and **Matplotlib**.
+#### 🛒 [Olist E-commerce Data Pipeline & BI System](https://github.com/NAizdabezt/BI-Dashboard-Project) *(🌟 Key Project)*
+- **Role:** Data Engineer / Backend Developer
+- **Overview:** Engineered an automated data system simulating real-world e-commerce data workflows.
+- **Key Highlights:**
+  - Built an automated **ETL Pipeline** to extract, clean, and process multi-source data (Orders, Customers, Payments).
+  - Designed a "Time Travel" simulation utilizing **GitHub Actions (Cron Jobs)** for daily incremental data loading.
+  - Developed high-performance RESTful APIs using **FastAPI** to seamlessly serve processed data to a Next.js BI Dashboard.
 
-- 💹 **[Financial Risk Management Demo](https://github.com/NAizdabezt/financial-risk-demo)**
-  - Simulated basic financial risk metrics and visualized stock price volatility.
-  - Applied quantitative concepts using Python.
+#### 📈 [COVID-19 Time-Series Data Analysis](https://github.com/NAizdabezt/who-covid19-dashboard)
+- **Role:** Data Analyst
+- **Overview:** Processed and analyzed WHO time-series data to forecast infection trends.
+- **Key Highlights:** Performed rigorous data cleaning, missing value handling, and EDA using **Pandas** and **Matplotlib**.
 
-- 🍽️ **[Watch Store Management System](https://github.com/langvuong09/QuanLyBanDongHo)**
-  - Full-stack management system with a robust database architecture.
-  - Demonstrated strong **SQL** skills in data handling and reporting.
+#### 🍽️ [Watch Store Management System](https://github.com/langvuong09/QuanLyBanDongHo)
+- **Role:** Database Administrator
+- **Overview:** A full-stack retail management system with a robust backend architecture.
+- **Key Highlights:** Demonstrated strong **SQL** skills in database normalization, complex query writing, and transaction management.
 
 ---
 
-⭐ *Thanks for visiting my GitHub! Ready to code and analyze.*
+⭐ *Thanks for visiting my GitHub! Always ready to build, optimize, and automate.*
